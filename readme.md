@@ -1,8 +1,14 @@
+# Description
+
 Simple Binary to decimal trainer I built for a friend and I.
 
+# Supported platforms
+
+Developed on manjaro linux
 Probably works on windows but I haven't tested.
 
-Build by:
+
+# Build instructions
 
 cd Build
 
